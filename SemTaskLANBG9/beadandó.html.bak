@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+
+  <title>beadandó</title>
+ </head>
+ <body>
+  
+<style >
+article, section, aside, nav, header, footer {display: block;}
+
+.fejlec {
+font-size: 18pt;
+font-family: Helvetica;
+margin-top: 20px;
+margin-bottom: 20px;
+font-weight: bold;
+}
+.urlap {
+padding: 30px;
+font-size: 12px;
+font-family: Helvetica;
+background: #dfe3ea;
+width: 500px;
+height: 300px;
+border-radius: 10px;
+box-shadow: 5px 5px 10px #888888;
+}
+.lablec {
+width: 560px;
+font-size: 10pt;
+margin-top: 40px;
+border-top: 3px #888888 double;
+padding-top: 30px;
+text-align: right;
+font-family: Helvetica;
+}
+</style>
+
+ </head>
+</html>
+
+
+
+<header id="fejlec" class="fejlec">
+Bubenkó Ákos 
+</header>
+
+
+
+
+<section id="tartalom" class="urlap">
+
+<form id="urlap" name="urlap">
+
+<h4>Egyetemi tanulmányaim során rengeteg tantárgyam volt ezek közül hoztam hármat!</h4><br><br>
+
+<h2><p align="center">Válasz a három közül!</h2>
+<body>
+<p align="center">
+<tr style="height=400px">
+<td style="text-align:center">
+<a href="Villamosagtan.html" target="keret">
+<font style="color:#ff0000;text-decoration:none; font-family:tahoma; font-size:20pt">Villamosságtan</font></a></td>
+
+<br><br>
+
+<tr style="height=400px">
+<td style="text-align:center">
+<a href="Digitalis rendszerek.html" target="keret">
+<font style="color:#ff0000;text-decoration:none; font-family:tahoma; font-size:15pt">Digitális rendszerek</font></a></td>
+
+<br><br>
+
+<tr style="height=400px">
+<td style="text-align:center">
+<a href="Analizis.html" target="keret">
+<font style="color:#ff0000;text-decoration:0; font-family:tahoma; font-size:30pt">Analízis</font></a></td>
+
+
+
+
+
+
+
+

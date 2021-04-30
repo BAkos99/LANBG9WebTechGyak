@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+
+  <title>Digit</title>
+ </head>
+
+ <body style="background:#99FF99; background:url('XD.jpg'); background-repeat:no repeat; background-position:center; background-attachment:fixed">
+
+ 
+
+ </body>
+
+ <body style="background:transparent; color:white; font-size:10pt; font-family:tahoma">
+
+ <br><br>
+<p align="center"><font style="font-size:20pt"><b>Digitális rendszerek</b></font>
+
+ <br><br><br>
+ <img src="digit kep.gif" height="250" border="1" alt="" style="float:center">
+ <br><br><br>
+ Ebben a tárgyban számrendszereket különböző kódokat és sok más érdekes dolgot tanultam. Ezt a tárgyat is 3 féléven keresztül tanultam az 1-2-3 félévemben. 
+ <br><br>
+
+<b>Tartalom</b><br>
+Digitális: valamely változó jelenségnek, vagy fizikai mennyiségnek diszkrét (nem folytonos), megszámlálhatóan felaprózott, s így számokkal meghatározható, felírható értékeinek halmaza (például: jel (informatika), számítógép, széles sávú internetkapcsolatok, digitális fényképezők, digitális hangrögzítés, stb.).
+
+A digitális rendszerek sokkal inkább számokat (leginkább bináris számokat) használnak bevitelhez, feldolgozáshoz, átvitelhez, tároláshoz vagy megjelenítéshez, mint az értékek folytonos spektrumát (ez utóbbit ugyanis az analóg rendszerek használják), vagy a nem-numerikus szimbólumokat, mint a betűk vagy ikonok.
+
+<br><br>
+<br><br>
+<button><a href="beadandó.html" style="float:center" height="1000"> Vissza<br><br><br><br></button>
+
+  <footer id="lablec" class="lablec">
+
+Forrás: <a href="http://mazsola.iit.uni-miskolc.hu/DATA/storages/files/_dffpD__grZUVU.pdf" target="ujablak">
+  http://mazsola.iit.uni-miskolc.hu/DATA/storages/files/_dffpD__grZUVU.pdf
+  </a>
+
+
+ </body>
+</html>
