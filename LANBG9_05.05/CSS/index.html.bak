@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+ 
+  <title>CSS 3</title>
+
+<link rel="stlyesheet" href="stilus.ccs">
+
+<style>
+h1{
+font-size: 26pt;
+color:navy;
+}
+</style>
+<>
+ </head>
+ <body>
+  
+ </body>
+</html>
